@@ -18,7 +18,7 @@
 
 ## While문 구구단
 
-![screenshot](https://github.com/banziha104/ExpressExample/blob/master/screen.png)
+![screenshot](/Users/iyeongjun/Desktop/screen/screenFor.png)
 
 ![screenWhile](https://github.com/banziha104/GugudanGame/tree/master/Assets/ScreenShot/screenInit.png)
 
