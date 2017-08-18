@@ -19,3 +19,6 @@
 ## While문 구구단
 
 ![screenWhile](https://github.com/banziha104/GugudanGame/tree/master/Assets/ScreenShot/screenInit.png)
+
+
+![screenshot](https://github.com/banziha104/ExpressExample/blob/master/screen.png)
