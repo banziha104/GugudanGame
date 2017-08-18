@@ -6,11 +6,11 @@
 
 ## X버튼
 
-![screenX](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenInit.png)
+![screenX](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenX.png)
 
 ## O버튼
 
-![screenO](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenInit.png)
+![screenO](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenO.png)
 
 ## For문 구구단
 
@@ -18,6 +18,6 @@
 
 ## While문 구구단
 
-![screenshot](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenInit.png)
+![screenshot](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenWhile.png)
 
 
