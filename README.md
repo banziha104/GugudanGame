@@ -10,7 +10,7 @@
 
 ## O버튼
 
-![screenO](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenO.png)
+![screenO](https://github.com/banziha104/GugudanGame/blob/master/Assets/ScreenShot/screenY.png)
 
 ## For문 구구단
 
